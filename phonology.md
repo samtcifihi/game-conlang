@@ -61,9 +61,8 @@ No intra-syllabic consonantal blends.
 
 ### Syllabic Phonotactics
 
-V: a, o, i, ao, ai, oi
-
-Vf: io, ia, oa
+* V: a, o, i, ao, ai, oi
+* Vf: io, ia, oa
 
 1. CV(C)
 2. Vf(C)

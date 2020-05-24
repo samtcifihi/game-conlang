@@ -4,23 +4,21 @@
 
 ### IPA
 
+```
 		Bi-labial	Dental		Velar		Uvular
-
 Plosive		p, b		t, d		k, g		q, ɢ
-
 Nasal		m				ŋ		N
-
 Fricative	ɸ, β		θ, ð		x, ɣ
+```
 
 ### Orthography
 
+```
 		Bi-labial	Dental		Velar		Uvular
-
 Plosive		p, b		t, d		k, g		q, Q
-
 Nasal		m				n		N
-
 Fricative	f, v		th, dh		x, X
+```
 
 ### Notes
 * Plosives: All stops may be pronounced unaspirated, aspirated, and/or/vel as ejectives.
@@ -37,13 +35,12 @@ Fricative	f, v		th, dh		x, X
 
 ### Orthograhy _and_ IPA
 
+```
 		Front		Mid		Back
-
 Close		/i/
-
 Close-mid					/o/
-
 Open		/a/
+```
 
 ## Phonotactics
 

@@ -40,6 +40,25 @@ Open		/a/
 
 ### Consonantal Phonotactics
 
+No intra-syllabic consonantal blends.
+
 ### Vocalic Phonotactics
 
+#### Vowel Blends
+
+* /ao/
+* /ai/
+* /oi/
+* /io/
+* /ia/
+* /oa/
+
 ### Syllabic Phonotactics
+
+V: a, o, i, ao, ai, oi
+Vf: io, ia, oa
+
+1. CV(C)
+2. Vf(C)
+
+All syllables within each word must be separated by at least one consonant.

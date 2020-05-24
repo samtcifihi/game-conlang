@@ -1,3 +1,18 @@
 {
-	"8ac30aae": {"entry": "", "definition": "", "tags": ""}
+	"8ac30aae": {"entry": "fa", "definition": "0", "tags": "number"},
+	"5d60c78c": {"entry": "ti", "definition": "1", "tags": "number"},
+	"ffa5a0fe": {"entry": "ma", "definition": "2", "tags": "number"},
+	"b150f2bf": {"entry": "po", "definition": "3", "tags": "number"},
+	"0c09d01a": {"entry": "ka", "definition": "4", "tags": "number"},
+	"799e872b": {"entry": "thiq", "definition": "5", "tags": "number"},
+	"957ce28d": {"entry": "bao", "definition": "6", "tags": "number"},
+	"7719b3ab": {"entry": "XiQ", "definition": "7", "tags": "number"},
+	"b8e08770": {"entry": "QaN", "definition": "8", "tags": "number"},
+	"1b39d7fe": {"entry": "don", "definition": "9", "tags": "number"},
+	"bf81d532": {"entry": "daq", "definition": "A (hex digit); ↊; ten", "tags": "number"},
+	"0f010c13": {"entry": "Ni", "definition": "B (hex digit); ↋; eleven", "tags": "number"},
+	"45ae3f52": {"entry": "oa", "definition": "C (hex digit); 10 (z); twelve", "tags": "number"},
+	"8a4e6490": {"entry": "qi", "definition": "D (hex digit); 11 (z); thirteen", "tags": "number"},
+	"b5bab9a5": {"entry": "Xan", "definition": "E (hex digit); 12 (z); fourteen", "tags": "number"},
+	"72f6bef2": {"entry": "Noq", "definition": "F (hex digit); 13 (z); fifteen", "tags": "number"}
 }
